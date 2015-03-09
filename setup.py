@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
 from distutils.core import setup
 from autoalchemy import __version__
